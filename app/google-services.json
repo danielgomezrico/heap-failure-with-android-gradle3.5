@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "624943093206",
+    "firebase_url": "https://heapcrashsample.firebaseio.com",
+    "project_id": "heapcrashsample",
+    "storage_bucket": "heapcrashsample.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:624943093206:android:d0d5abac7afcc914568077",
+        "android_client_info": {
+          "package_name": "com.lahaus.heaptest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "624943093206-o03mhtotq5fm3lbhc7n0hgeas2ptsiq1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDyG6yxqV6_PtBi470Gao26o4vHEyMMLAE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "624943093206-o03mhtotq5fm3lbhc7n0hgeas2ptsiq1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
